@@ -28,4 +28,10 @@
 	- ##### Vous pouvez ensuite obtenir le **Token** du bot ( qui ne doit être partagé à personne ) en cliquant sur `Reset Token`.
 	- ##### Retournez sur les fichiers du bot et ouvrez `config.json` à l'aide de [Visual Studio Code](https://code.visualstudio.com).
 		- ##### Dans la partie `"token"`, insérez le votre entre les guillemets ou il y à `"TOKEN_HERE"`.
-- #### Vous pouvez ensuite lancer le fichier `dmall.bat` qui va éxécuter le programme du bot et le tour est joué.
+		- ##### Dans la partie `"id"`, insérez votre ID Discord ( [L'obtenir](#ID) ).
+		- ##### Dans la partie `"message"`, insérez le message qui sera envoyé par le bot aux membres
+- #### Vous pouvez ensuite lancer le fichier `dmall.bat` qui va éxécuter le programme du bot lorsqu'un message sera envoyé sur le serveur par votre compte.
+
+
+#### ID
+##### Pour obtenir votre ID Discord,
