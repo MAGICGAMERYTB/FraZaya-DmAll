@@ -33,5 +33,5 @@
 - #### Vous pouvez ensuite lancer le fichier `dmall.bat` qui va éxécuter le programme du bot lorsqu'un message sera envoyé sur le serveur par votre compte.
 
 
-#### ID
+### ID
 ##### Pour obtenir votre ID Discord,
