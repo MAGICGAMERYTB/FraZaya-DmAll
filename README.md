@@ -1,5 +1,5 @@
 # BaloZ DM All
-### v1.0
+### Version 1.0
 - ##### Plusieurs **centaines** de membres par minute
 - ##### Une interface **facile** d'utilisation
 - ##### Un [support](https://discord.gg/g9CnffyTP7) **actif**
