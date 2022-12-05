@@ -8,6 +8,7 @@
 ## Sommaire
 - ### [Prérequis](#Prérequis)
 - ### [Tutoriel](#Tuto)
+- ### [ID](#ID)
 
 
 ## Prérequis
@@ -34,4 +35,7 @@
 
 
 ## ID
-##### Pour obtenir votre ID Discord,
+##### Pour obtenir votre ID Discord, 
+- ##### Rendez vous dans vos paramètres, puis `Avancés` puis `Mode développeur`. 
+- ##### Activez l'option.
+- ##### Faites clic droit sur votre pseudo, `Copier l'ID`.
