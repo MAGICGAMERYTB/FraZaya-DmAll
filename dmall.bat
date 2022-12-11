@@ -1,3 +1,3 @@
 @echo off
-title BaloZ DM All
+title FraZaya DM All
 node index.js
