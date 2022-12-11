@@ -1,4 +1,4 @@
-# BaloZ DM All
+# FraZaya DM All
 ### Version 1.0
 - ##### Plusieurs **centaines** de membres par minute
 - ##### Une interface **facile** d'utilisation
