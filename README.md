@@ -1,13 +1,14 @@
 # FraZaya DM All
-### Version 1.0
-- ##### Plusieurs **centaines** de membres par minute
-- ##### Une interface **facile** d'utilisation
-- ##### Un [support](https://discord.gg/g9CnffyTP7) **actif**
+### Version 1.1
+- ##### Plusieurs **centaines** de membres par minute !
+- ##### Une interface **facile** d'utilisation !
+- ##### *FraZaYa#9999* pour des questions !
 
 
 ## Sommaire
 - ### [Prérequis](#Prérequis)
-- ### [Tutoriel](#Tuto)
+- ### [Tutoriel](#Tuto))
+- ### [Commandes](#Commandes)
 - ### [ID](#ID)
 
 
@@ -27,11 +28,17 @@
 	- ##### Sur le menu latéral, allez sur `Bot`et cliquez sur `Add Bot` puis `Yes, do it`.
 	- ##### Ensuite, désactivez l'option `Public bot` puis activez les 3 intents : `PRESENCE INTENT`, `SERVER MEMBERS INTENT` et `MESSAGE CONTENT INTENT`.
 	- ##### Vous pouvez ensuite obtenir le **Token** du bot ( qui ne doit être partagé à personne ) en cliquant sur `Reset Token`.
-	- ##### Retournez sur les fichiers du bot et ouvrez `config.json` à l'aide de [Visual Studio Code](https://code.visualstudio.com).
+	- ##### Retournez sur les fichiers du bot et ouvrez `params.json` à l'aide de [Visual Studio Code](https://code.visualstudio.com).
 		- ##### Dans la partie `"token"`, insérez le votre entre les guillemets ou il y à `"TOKEN_HERE"`.
-		- ##### Dans la partie `"id"`, insérez votre ID Discord ( [L'obtenir](#ID) ).
-		- ##### Dans la partie `"message"`, insérez le message qui sera envoyé par le bot aux membres
-- #### Vous pouvez ensuite lancer le fichier `dmall.bat` qui va éxécuter le programme du bot lorsqu'un message sera envoyé sur le serveur par votre compte.
+		- ##### Dans la partie `"server"` qui se trouve dans `"id"`, entrez l'ID du serveur ( [L'obtenir](#ID) ).
+		- ##### Dans la partie `"user"` qui se trouve dans `"id"`, insérez votre ID Discord ( [L'obtenir](#ID) ).
+		- ##### Dans la partie `"prefix"`, insérez un prefix des commandes.
+- #### Vous pouvez ensuite lancer le fichier `start.bat` qui va éxécuter le programme.
+
+## Commandes 
+###### *Le prefix par défaut utilisé ici est `%`*
+#### - `%check` : Vérifie si votre bot détecte bien le message
+#### - `%start <message>` : Envoie le message ( envoyé après la commande ) à tout les membres du serveur.
 
 
 ## ID
@@ -39,3 +46,8 @@
 - ##### Rendez vous dans vos paramètres, puis `Avancés` puis `Mode développeur`. 
 - ##### Activez l'option.
 - ##### Faites clic droit sur votre pseudo, `Copier l'ID`.
+
+##### Pour obtenir l'ID d'un serveur, 
+- ##### Rendez vous dans vos paramètres, puis `Avancés` puis `Mode développeur`. 
+- ##### Activez l'option.
+- ##### Faites clic droit sur votre serveur, `Copier l'ID`.
