@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "console-log-colors": "^0.3.3",
-    "discord.js": "^13.12.0",
-    "moment": "^2.29.4"
-  }
-}
