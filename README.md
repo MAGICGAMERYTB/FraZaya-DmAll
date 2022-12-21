@@ -6,13 +6,13 @@
 
 
 ## Sommaire
-- ### [Prérequis](#Prérequis nécessaires)
+- ### [Applications](#Prérequis)
 - ### [Tutoriel](#Tuto)
-- ### [Commandes](#Commandes du bot)
-- ### [ID](#Obtenir ID)
+- ### [Commandes du bot](#Commandes)
+- ### [Obtenir ID](#ID)
 
 
-## Prérequis nécessaires
+## Prérequis
 - ### [Visual Studio Code](https://code.visualstudio.com)
 
 
@@ -35,13 +35,13 @@
 		- ##### Dans la partie `"prefix"`, insérez un prefix des commandes.
 - #### Vous pouvez ensuite lancer le fichier `start.bat` qui va éxécuter le programme.
 
-## Commandes du bot
+## Commandes
 ###### *Le prefix par défaut utilisé ici est `%`*
 #### - `%check` : Vérifie si votre bot détecte bien le message
 #### - `%start <message>` : Envoie le message ( envoyé après la commande ) à tout les membres du serveur.
 
 
-## Obtenir ID
+## ID
 ##### Pour obtenir votre ID Discord, 
 - ##### Rendez vous dans vos paramètres, puis `Avancés` puis `Mode développeur`. 
 - ##### Activez l'option.
