@@ -86,4 +86,6 @@ client.on('messageCreate', async msg => {
 
 });
 
-client.login(params.token)
+client.login(params.token).catch(err => {
+    console.log(red(`Une erreur est survenue : tu n'a pas mis un bon`), blue(`token`), red(`ou pas activé les`), blue(`intents`), red('.'), red(`\nL'erreur détaillée :`), yellow(err))
+})
